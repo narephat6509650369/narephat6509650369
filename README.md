@@ -1,4 +1,4 @@
-# Hi, I'm Mud 👋  
+# Hi, I'm Narephat 👋  
 ### Computer Science Student | Junior Developer | Aspiring Software Engineer
 
 I’m a 4rd-year Computer Science student at Thammasat University who loves building practical applications — from mobile apps to machine learning projects.  
