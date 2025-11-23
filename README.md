@@ -7,7 +7,7 @@ I enjoy solving problems, designing experiences, and learning new technologies t
 ---
 
 ## 🚀 About Me
-- 🎓 Currently studying **Computer Science (Year 3)**  
+- 🎓 Currently studying **Computer Science (Year 4)**  
 - 💻 Interested in **Mobile Development, Backend Engineering, Machine Learning**  
 - 🧠 Exploring **Microservices, Spring Boot, Node.js, Docker, Kafka, Cloud**  
 - 🎯 Goal: Improve technical skills, build impactful applications, and prepare for international work opportunities  
