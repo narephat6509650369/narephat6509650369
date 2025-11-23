@@ -1,7 +1,7 @@
 # Hi, I'm Mud 👋  
 ### Computer Science Student | Junior Developer | Aspiring Software Engineer
 
-I’m a 3rd-year Computer Science student at Thammasat University who loves building practical applications — from mobile apps to machine learning projects.  
+I’m a 4rd-year Computer Science student at Thammasat University who loves building practical applications — from mobile apps to machine learning projects.  
 I enjoy solving problems, designing experiences, and learning new technologies to grow into a well-rounded developer.
 
 ---
