@@ -71,7 +71,7 @@ This project uses **EfficientNetV2L** to classify healthy vs. cancerous skin.
 
 ## 📫 Contact
 - ✉️ Email: narephatrung@gmail.com
--     Portfolio: https://na-web-portfolio.netlify.app/
+- Portfolio: https://na-web-portfolio.netlify.app/
 - 💼 LinkedIn: [https://www.linkedin.com/in/narephat-rungrumphan-94a966383/] 
 - 🐙 GitHub: [narephat6509650369](https://github.com/narephat6509650369)
 
