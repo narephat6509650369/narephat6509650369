@@ -9,7 +9,7 @@ I enjoy solving problems, designing experiences, and learning new technologies t
 ## 🚀 About Me
 - 🎓 Currently studying **Computer Science (Year 4)**  
 - 💻 Interested in **Mobile Development, Backend Engineering, Machine Learning**  
-- 🧠 Exploring **Microservices, Spring Boot, Node.js, Docker, Kafka, Cloud**  
+- 🧠 Exploring **Microservices, Spring Boot, Node.js, Docker, Kafka**  
 - 🎯 Goal: Improve technical skills, build impactful applications, and prepare for international work opportunities  
 - ✍️ Also passionate about **writing, psychology, and self-development**
 
@@ -71,7 +71,7 @@ This project uses **EfficientNetV2L** to classify healthy vs. cancerous skin.
 
 ## 📫 Contact
 - ✉️ Email: narephatrung@gmail.com
-- Portfolio: https://na-web-portfolio.netlify.app/
+- Portfolio: https://web-portfolio-narephat.netlify.app/
 - 💼 LinkedIn: [https://www.linkedin.com/in/narephat-rungrumphan-94a966383/] 
 - 🐙 GitHub: [narephat6509650369](https://github.com/narephat6509650369)
 
