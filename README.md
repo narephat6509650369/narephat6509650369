@@ -48,6 +48,30 @@ This project uses **EfficientNetV2L** to classify healthy vs. cancerous skin.
 
 ---
 
+### ✈️ **TripMate – Collaborative Trip Planning & Voting App**
+
+A web application that helps groups plan trips together by allowing members to vote on destinations, activities, and expenses.
+Designed to simplify group decision-making and improve coordination through real-time updates.
+
+Status: In Development (Full-stack Web Application)
+
+**My Role**
+
+Designed and implemented backend APIs (RESTful services)
+Developed real-time features using Socket/Event system
+Built frontend components for voting and trip management
+Designed database schema for trips, members, and voting system
+
+**Tech Stars**
+
+- Node.js, Express
+- RESTful API Design
+- WebSocket / Real-time Communication
+- SQL Database Design
+- Frontend (React / Next.js)
+- State Management & API Integration
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
