@@ -1,104 +1,101 @@
-# Hi, I'm Narephat 👋  
-### Computer Science Student  
-I’m a 4rd-year Computer Science student at Thammasat University who loves building practical applications — from mobile apps to machine learning projects.  
-I enjoy solving problems, designing experiences, and learning new technologies to grow into a well-rounded developer.
+# Hi, I'm Narephat 👋
+### Full-Stack Developer | Mobile & Backend  | ML Enthusiast
+
+Fresh Computer Science graduate from Thammasat University with hands-on 
+experience building full-stack web applications, mobile apps, and 
+machine learning systems. Passionate about designing practical solutions 
+that solve real-world problems.
+
+📫 narephatrung@gmail.com  
+🌐 [Portfolio](https://web-portfolio-narephat.netlify.app/) · 
+[LinkedIn](https://www.linkedin.com/in/narephat-rungrumphan-94a966383/) · 
+[GitHub](https://github.com/narephat6509650369)
 
 ---
 
-## 🚀 About Me
-- 🎓 Currently studying **Computer Science (Year 4)**  
-- 💻 Interested in **Mobile Development, Backend Engineering, Machine Learning**  
-- 🧠 Exploring **Microservices, Spring Boot, Node.js, Docker, Kafka**  
-- 🎯 Goal: Improve technical skills, build impactful applications, and prepare for international work opportunities  
-- ✍️ Also passionate about **writing, psychology, and self-development**
+## 🙋 About Me
+
+- 🎓 B.Sc. Computer Science — Thammasat University (Class of 2025)
+- 💻 Core interests: **Mobile Development, Backend Engineering, Machine Learning**
+- 🧠 Currently exploring: **Microservices, Spring Boot, Kafka, Docker**
+- 🎯 Seeking opportunities to build impactful products and grow as an engineer
 
 ---
 
-## 🧩 Projects
+## 🚀 Featured Projects
 
-### 📱 **TUFIX – University Issue Reporting App**
-A mobile platform for students, lecturers, and staff to report equipment or asset issues such as broken desks, projectors, or air conditioners.  
-Designed for fast, simple, and efficient reporting.
+### 📱 TUFIX — University Issue Reporting App
+> A mobile platform that streamlines equipment issue reporting for students, 
+> lecturers, and staff across campus facilities.
 
-**Status:** Prototype (Figma only, Low-fi & High-fi)
+Identified a campus-wide pain point in slow maintenance reporting and 
+designed a full UX solution — from user research to high-fidelity prototype.
 
-**Tech Stars**
-- UX/UI Design (Figma)
-- User Flow & Wireframing
-- Problem Analysis & Workflow mapping
-- Mobile-first Design System
+**Key Contributions**
+- Conducted user research and mapped end-to-end user flows
+- Designed low-fi → high-fi prototypes with a mobile-first design system
+- Created component library and interaction patterns in Figma
 
----
-
-### 🩺 **DeeSkin – Skin Cancer Detection App**
-A collaborative year-2 project focusing on early skin cancer detection via image analysis.  
-This project uses **EfficientNetV2L** to classify healthy vs. cancerous skin.
-
-**My Role**
-- Built and trained ML model  
-- Designed initial UX/UI  
-- Wrote project documentation & report
-
-**Tech Stars**
-- Python, TensorFlow  
-- EfficientNetV2L Model Implementation  
-- Data Preprocessing & Augmentation  
-- UX/UI Design (Mobile)  
-- Model Evaluation & Reporting  
+`Figma` `UX Research` `User Flow Design` `Mobile-first UI`
 
 ---
 
-### ✈️ **TripMate – Collaborative Trip Planning & Voting App**
+### 🩺 DeeSkin — AI Skin Cancer Detection App
+> A deep learning application for early-stage skin cancer classification 
+> using image analysis, aimed at improving early detection accessibility.
 
-A web application that helps groups plan trips together by allowing members to vote on destinations, activities, and expenses.
-Designed to simplify group decision-making and improve coordination through real-time updates.
+Led the ML development pipeline end-to-end — from data preprocessing 
+to model deployment — achieving strong classification performance using 
+EfficientNetV2L.
 
-Status: In Development (Full-stack Web Application)
+**Key Contributions**
+- Built and trained EfficientNetV2L model for binary skin lesion classification
+- Implemented data augmentation pipeline to improve model generalization
+- Designed mobile UX and wrote full technical documentation
 
-**My Role**
+`Python` `TensorFlow` `EfficientNetV2L` `Data Augmentation` `Mobile UX Design`
 
-Designed and implemented backend APIs (RESTful services)
-Developed real-time features using Socket/Event system
-Built frontend components for voting and trip management
-Designed database schema for trips, members, and voting system
+---
 
-**Tech Stars**
+### ✈️ TripMate — Collaborative Trip Planning App *(In Development)*
+> A real-time web app for groups to collaboratively plan trips — 
+> vote on destinations, manage itineraries, and split expenses together.
 
-- Node.js, Express
-- RESTful API Design
-- WebSocket / Real-time Communication
-- SQL Database Design
-- Frontend (React / Next.js)
-- State Management & API Integration
+Architected and implemented the full-stack system with real-time 
+collaboration features from scratch.
+
+**Key Contributions**
+- Designed RESTful API architecture and database schema (trips, members, voting)
+- Implemented real-time updates via WebSocket for live voting sessions
+- Built frontend components for trip management and group voting flows
+
+`Node.js` `Express` `WebSocket` `SQL` `React / Next.js` `RESTful API`
+
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-- Python  
-- JavaScript / TypeScript  
-- Java   
-- c
-- c++
-
-### **Frameworks & Tools**
-- React / React Native  
-- Node.js  
-- Express  
-- Spring Boot  
-- MongoDB / MySQL  
-- Docker  
-- Git & GitHub  
+| Area | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript / TypeScript, Java, C/C++ |
+| **Frontend** | React, Next.js, React Native |
+| **Backend** | Node.js, Express, Spring Boot |
+| **Database** | MySQL, MongoDB |
+| **ML / AI** | TensorFlow, EfficientNet |
+| **DevOps** | Docker, Git & GitHub |
+| **Design** | Figma, UX/UI Prototyping |
 
 ---
 
-## 📫 Contact
-- ✉️ Email: narephatrung@gmail.com
-- Portfolio: https://web-portfolio-narephat.netlify.app/
-- 💼 LinkedIn: [https://www.linkedin.com/in/narephat-rungrumphan-94a966383/] 
-- 🐙 GitHub: [narephat6509650369](https://github.com/narephat6509650369)
+## 📫 Let's Connect
 
----
+I'm actively looking for opportunities in **Full-Stack Development**, 
+**Backend Engineering**, or **Mobile Development**.
 
-⭐️ *Feel free to explore my projects and connect with me!*
+Feel free to reach out — I'd love to connect!
+
+- ✉️ narephatrung@gmail.com  
+- 🌐 [Portfolio](https://web-portfolio-narephat.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/narephat-rungrumphan-94a966383/)  
+- 🐙 [GitHub](https://github.com/narephat6509650369)
 
