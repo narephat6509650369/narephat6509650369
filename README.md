@@ -53,12 +53,10 @@ This project uses **EfficientNetV2L** to classify healthy vs. cancerous skin.
 ### **Languages**
 - Python  
 - JavaScript / TypeScript  
-- Java  
-- Dart  
+- Java   
 
 ### **Frameworks & Tools**
 - React / React Native  
-- Flutter  
 - Node.js  
 - Express  
 - Spring Boot  
