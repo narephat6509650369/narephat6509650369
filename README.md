@@ -1,7 +1,7 @@
 # Hi, I'm Narephat 👋
 ### Full-Stack Developer | Mobile & Backend  | ML Enthusiast
 
-Fresh Computer Science graduate from Thammasat University with hands-on 
+Computer Science graduate from Thammasat University with hands-on 
 experience building full-stack web applications, mobile apps, and 
 machine learning systems. Passionate about designing practical solutions 
 that solve real-world problems.
